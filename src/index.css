@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background: linear-gradient(90deg, 
+  #a0c4da 0%,   /* light gray-blue sky */
+  #7acdfa 40%,  /* soft cloudy white */
+  #6b9dde 70%,  /* muted blue-gray */
+  #0b8bbd 100% );
+}
